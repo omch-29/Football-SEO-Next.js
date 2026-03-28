@@ -36,7 +36,7 @@ export default async function PlayerPage({ params }) {
 
   return (
     <main className="player-container">
-      {/* JSON-LD Schema */}
+      
       <SEOJsonLd player={player} />
 
       <img
