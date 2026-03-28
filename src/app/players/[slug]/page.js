@@ -46,7 +46,7 @@ export default async function PlayerPage({ params }) {
         height={400}
       />
 
-      <h1>{player.name}</h1>
+      
       <p>{player.description}</p>
 
       <ul>
